@@ -1,7 +1,7 @@
 # teamApp
 
 A simple responsive website to market a chat application.
-Made only with HTML, CSS and vanilla JS.
+
 <br>
 You can check the <a href="https://drudiego.github.io/teamApp/">live demo here</a>.
 <br>
